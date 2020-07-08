@@ -53,3 +53,8 @@ In Vscode, go to RUN (Ctrl+Shift+D), add a new configuration to run the main app
 }
 
 ```
+## Requirements
+
+- Python 3.7
+- databricks-cli (Using pip)
+- databricks cli (Rest API)
